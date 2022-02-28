@@ -1,4 +1,4 @@
-# 2018/06/27 Wifi ShowNetwork version：0.0.0.1
+# 2018/06/27 Wifi ShowNetwork version：0.0.0.2
 1. WLAN 的 Interfaces 建置
 2. WLAN 的 Interfaces 連線異動通知
 3. 修改元WLAN的Struct結構
